@@ -14,4 +14,4 @@ Todo:
 -   Functioning Music Player
 -   Fun commands  
   
-written with <3 by frizzbees
+written with ❤️ by frizzbees
