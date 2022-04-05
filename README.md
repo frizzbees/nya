@@ -11,8 +11,8 @@ Nya is a general purpose discord bot with many (planned) features, inteded for u
 -    To install nya for use in your own server, ensure you have a valid bot token
 -    Clone this repository
 -    Create a file called ".env" in the directory of the bot
--    Add a "TOKEN" variable to your .env file, as shown below
--    `TOKEN = "(Bot Token)"`
+-    Add a "TOKEN" variable to your .env file, as shown below  
+    `TOKEN = "(Bot Token)"`
 -    Start the bot
 
 **Todo:**
