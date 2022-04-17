@@ -2,7 +2,7 @@
 Discord Bot written in Pycord
 
 > Please Note!!  
-> This bot is in a very early stage of development. It is not reccomended for use at all.  
+> This bot is in a very early stage of development. It is not recomended for use at all.  
 > Thank you for your understanding!  
 
 Nya is a general purpose discord bot with many (planned) features, inteded for use in my own servers but could be useful for any.  
